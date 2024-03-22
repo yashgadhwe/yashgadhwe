@@ -75,9 +75,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashSMG&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=false&order=1" height="185" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashSMG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="185" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=YashSMG&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="185" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashgadhwe&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=false&order=1" height="185" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashgadhwe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="185" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=yashgadhwe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="185" alt="streak graph"  />
 </div>
 
 ###
@@ -105,7 +105,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/YashSMG/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/yashgadhwe/count.svg?"  />
 </div>
 
 ###
